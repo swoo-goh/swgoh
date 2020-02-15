@@ -7,8 +7,9 @@
 * 팀구성 : PL 1, DW/BI 1, UI 1
 > 특징 : 원맨 DW/BI 프로젝트
 ### 프로젝트 환경
-* 플랫폼 : Oracle BDA, Cloudera CDH
+* 플랫폼 : Oracle BDA, Cloudera CDH (8노드)
 * OS : Oracle Linux
+* 데이터베이스 : Oracle Exadata/EE, Hadoop, Hive, Impala
 * 주요기술 : Hadoop, Hive, Impala, KUDU, Sqoop, Kafka, Spring Boot, Quartz Scheduler, Multi Thread, Embedded Tomcat
 ### Hadoop 클러스터 구축
 * 플랫폼 : Oracle BDA, Cloudera CDH
@@ -42,14 +43,24 @@
 * 기간 : 2019년 03월 ~ 2019년 09월
 * 수행역할 : DA, 모델링, 설계, 개발
 * 팀구성 : PL 1, DW/BI 2, ETL 1, UI 2
-### 공통
-* 
-* 사용기술 : PL-SQL, 
+### 프로젝트 환경
+* 데이터베이스 : Oracle EE/SE
+* OS : CentOS
+* 주요기술 : ER모델링, 다차원모델링, PL-SQL, SQL*PLUS, SQLLDR, Shell
+### 아키텍처 및 공통
+* 주제영역, 용어, 어플리케이션 등 표준 정의
+* 테이블/컬럼 추출, 변환, 적재 규칙 정의
+* ETL 솔루션 검증 및 설계 개선
+* 사용기술 : ERWIN, PL-SQL, SQL*PLUS, SQLLDR, Shell
 ### 캠페인 결과 분석
 * 캠페인 결과 분석 관련 마트, AB Test
+* 사용기술 : PL-SQL
 ### 고객 세그먼트
 * RFM 및 20여 분류의 상세화 고객 세그먼트
+* 사용기술 : PL-SQL
 ### 마켓쉐어 데이터 수집
+* 마켓쉐어 데이터 인터페이스 및 적재
+* 사용기술 : PL-SQL, SQLLDR
 
 # :high_brightness: SK브로드밴드 UI 5.0 로그 데이터 분석
 ### 프로젝트 개요
@@ -59,9 +70,15 @@
 * 팀구성 : PL 1, DW/BI 3, UI 2
 > 레거시 마트 데이터 정합성 15%에서 70%로 향상 (원천의 로그시간 이슈 해결시 대폭 향상 될것으로 예측)
 > 프로젝트 중간부터 DW/BI 원맨 프로젝트
+### 프로젝트 환경
+* 플랫폼 : Hortonworks HDP (200노드)
+* 데이터베이스 : Oracle Exadata, Hadoop, Hive, Tez
+* OS : CentOS
+* 주요기술 : ER모델링, 다차원모델링, Hadoop, Hive, Tez, Oozie, Sqoop, Shell
 ### 로그 데이터 전처리
-* 사용기술 : Hive, Tez, Oozie, Sqoop, Oracle Exadata
+* 사용기술 : Hive, Tez, Oozie, Sqoop
 ### 로그 데이터 분석 마트
+> 250억건 데이터 전처리 및 데이터 마트 적재 소요시간이 30분 미만으로 수행됨
 ### 로그 분석 시각화 마트
 ### 로그 연동 매출 마트
 ### 로그 연동 AI 음성 마트
