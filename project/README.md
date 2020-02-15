@@ -132,7 +132,7 @@
 ### 프로젝트 환경
 * 플랫폼 : Hortonworks HDP (100노드)
 * 데이터베이스 : Oracle Exadata, Hadoop, Hive, Tez
-* OS : CentOS
+* OS : Red Hat
 * 주요기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Shell
 ### 고객 세그먼트 상세화
 * 고객 세그먼트 상세화 200여개 개발 및 검증
@@ -172,5 +172,21 @@
 * 영업실적 관련 보고서
 ### 인터페이스
 * 기관 사업정보, 영업정보, 입찰정보 수집
+
+# :high_brightness: SK플래닛 DW Hadoop 기반 이전 구축
+### 프로젝트 개요
+* 기존 Tera Data에서 Hadoop 기반 DW/BI 시스템으로 마이그레이션
+* 프로젝트 분류 : 빅데이터, DW/BI, 정보계
+* 기간 : 2016년 07월 ~ 2016년 11월
+* 수행역할 : 개발
+* 팀구성 : PM 1, PL 2, DW/BI 12
+### 프로젝트 환경
+* 플랫폼 : Hortonworks HDP (200노드)
+* 데이터베이스 : Oracle Exadata, Hadoop, Hive, Tez
+* OS : Red Hat
+* 주요기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Shell
+### OKcashbag 마트
+### 11번가 마트
+### 인터페이스
 
 
