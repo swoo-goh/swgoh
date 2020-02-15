@@ -16,7 +16,7 @@
 * 사용기술 : Kafka, Multi Thread
 ### ETL 어플리케이션
 * 사용기술 : Shell, Java, Python, JSON, JSON Serde, XML Serde
-* 테이블, 컬럼, 스케줄링 JOB 메타 정보를 이용하여 ETL, API 인터페이스 구현
+* 테이블, 컬럼, 스케줄링 JOB 메타 정보를 이용하여 ETL, API 인터페이스 어플리케이션 구현
 * 테이블 및 데이터 마이그레이션 어플리케이션 구현
 * 초기적재 어플리케이션 구현
 
