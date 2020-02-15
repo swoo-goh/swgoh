@@ -15,7 +15,7 @@
 * 스케줄링 에이전트
 * 사용기술 : Kafka
 ### ETL 어플리케이션
-* 사용기술 : Shell, Java, Python,
+* 사용기술 : Shell, Java, Python, JSON
 * 
 
 # 메가박스 마케팅/캠페인 시스템
