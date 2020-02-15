@@ -6,7 +6,7 @@
 ### Hadoop 클러스터 구축
 * 플랫폼 : Oracle BDA, Cloudera CDH, Oracle Linux
 * 주요 컴포넌트 : Hive, Impala, KUDU, HDFS, Kafka, Hue, Sentry
-* 컴포넌트 세부 설정
+* Cluster Planning (CDH의 Role 설정) 및 Impala, KUDU 등 컴포넌트 세부 설정
 * MIT Kerberos, Sentry, 설치 및 설정. Tableau 서버 (Windows Server) Impala Kerberos 서비스 설정
 ### 스케줄링 서버
 * 스케줄링 서버
