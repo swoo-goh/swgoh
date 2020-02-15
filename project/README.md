@@ -1,4 +1,4 @@
-# :octocat: NS홈쇼핑 BDA
+# :high_brightness: NS홈쇼핑 BDA
 ### 프로젝트 개요
 * DW/BI 용도의 빅데이터 시스템 신규 구축
 * 프로젝트 분류 : 빅데이터, DW/BI, 정보계
