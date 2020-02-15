@@ -5,6 +5,7 @@
 * 수행역할 : TA, 설계, 개발
 ### Hadoop 클러스터 구축
 * 플랫폼 : Oracle BDA, Cloudera CDH
+* 주요 컴포넌트 : Hive, Impala, KUDU, HDFS, Kafka, Hue, Sentry
 * OS : Oracle Linux
 ### 스케줄링 서버
 * 스케줄링 서버
