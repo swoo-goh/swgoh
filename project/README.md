@@ -7,11 +7,13 @@
 * 플랫폼 : Oracle BDA, Cloudera CDH
 * OS : Oracle Linux
 ### 스케줄링 서버
-
+* 스케줄링 서버
+* 사용기술 : Kafka, Quartz Scheduler, Tomcat
 ### 스케줄링 에이전트
-
+* 스케줄링 에이전트
+* 사용기술 : Kafka
 ### ETL 어플리케이션
-* 언어 : Shell, Java, Python
+* 사용기술 : Shell, Java, Python,
 * 
 
 # 메가박스 마케팅/캠페인 시스템
