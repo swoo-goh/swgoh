@@ -22,14 +22,19 @@
 * 스케줄링 에이전트
 * 사용기술 : Spring Boot, Kafka, Multi Thread
 ### 인터페이스 어플리케이션 (ETL, API 등)
-* 사용기술 : Shell, Java, Python, JSON, JSON Serde, XML Serde
 * 테이블, 컬럼, 스케줄링 JOB 메타 정보를 이용하여 ETL, API 인터페이스를 이용한 데이터 적재 어플리케이션 구현
 * Hive Metastore 정보를 이용하여 Impala, KUDU 테이블 및 데이터 마이그레이션 어플리케이션 구현
 * 신규 ETL 인터페이스에 대한 초기적재 어플리케이션 구현
+* 사용기술 : Shell, Java, Python, JSON, JSON Serde, XML Serde
+### Rest API Server
+* API를 통한 스케줄링 서버/에이전트 컨트롤
+* 사용기술 : Spring, Quartz Scheduler, Embedded Tomcat, Kafka
 ### DW
 * 기간계/컨텍센터 테이블 500여개 ETL 인터페이스 및 DW 적재
+* 사용기술 : HiveQL, Hive, Impala, HDFS, KUDU
 ### 고객 응대등급 데이터 마트
-* 고객 응대등급 팩터에 따른 분류 마트
+* 고객 응대등급 팩터에 따른 세그먼트 마트
+* 사용기술 : HiveQL, Hive, Impala, HDFS, KUDU
 
 # :high_brightness: 메가박스 마케팅/캠페인 시스템
 ### 프로젝트 개요
