@@ -10,10 +10,10 @@
 * MIT Kerberos, Sentry, 설치 및 설정. Tableau 서버 (Windows Server) Impala Kerberos 서비스 설정
 ### 스케줄링 서버
 * 스케줄링 서버
-* 사용기술 : Kafka, Quartz Scheduler, Tomcat
+* 사용기술 : Kafka, Quartz Scheduler, Multi Thread, Embedded Tomcat, MyBatis
 ### 스케줄링 에이전트
 * 스케줄링 에이전트
-* 사용기술 : Kafka
+* 사용기술 : Kafka, Multi Thread
 ### ETL 어플리케이션
 * 사용기술 : Shell, Java, Python, JSON, JSON Serde, XML Serde
 * 테이블, 컬럼, 스케줄링 JOB 메타 정보를 이용하여 ETL, API 인터페이스 구현
