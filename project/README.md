@@ -1,6 +1,8 @@
 # NS홈쇼핑 BDA
+### 프로젝트 개요
+* DW/BI 용도의 빅데이터 시스템 신규 구축
 * 기간 : 2019년 09월 ~ 2020년 02월
-* 역할 : TA, 설계, 개발
+* 수행역할 : TA, 설계, 개발
 ### Hadoop 클러스터 구축
 * 플랫폼 : Oracle BDA, Cloudera CDH
 * OS : Oracle Linux
