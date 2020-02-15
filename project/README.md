@@ -7,7 +7,7 @@
 * 플랫폼 : Oracle BDA, Cloudera CDH, Oracle Linux
 * 주요 컴포넌트 : Hive, Impala, KUDU, HDFS, Kafka, Hue, Sentry
 * Cluster Planning (CDH의 Role 설정) 및 Impala, KUDU 등 컴포넌트 세부 설정
-* MIT Kerberos, Sentry, 설치 및 설정. Tableau 서버 (Windows Server) Impala Kerberos 서비스 연동 설정
+* MIT Kerberos 및 Sentry, OS 관련 설치 및 설정. Tableau 서버 (Windows Server) Impala Kerberos 서비스 연동 설정
 ### 스케줄링 서버
 * 스케줄링 서버
 * 사용기술 : Kafka, Quartz Scheduler, Multi Thread, Embedded Tomcat, MyBatis
