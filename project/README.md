@@ -31,7 +31,7 @@
 * 사용기술 : Spring, Quartz Scheduler, Embedded Tomcat, MyBatis, Kafka
 ### DW
 * 기간계/컨텍센터 테이블 500여개 ETL 인터페이스 및 DW 적재
-* 사용기술 : HiveQL, Hive, Impala, HDFS, KUDU
+* 사용기술 : HiveQL, Hive, Impala, HDFS, KUDU, Oracle Exadata
 ### 고객 응대등급 데이터 마트
 * 고객 응대등급 팩터에 따른 세그먼트 마트
 * 사용기술 : HiveQL, Hive, Impala, HDFS, KUDU
@@ -77,24 +77,24 @@
 ### 로그 데이터 전처리
 * 로그 데이터 클렌징 및 변환
 * 로그 분류/그룹핑 디멘션 설계
-* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop
+* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Oracle Exadata
 > 로그 전처리 및 디멘션 작업은 기억에 남을 만한 성공작. 로그 정합성이 대폭 향상된 주요인
 ### 로그 데이터 분석 마트
 * 사용자 행동 (메뉴 네비게이션, 선호장르, 컨텐츠 구매 등) 패턴 분석 마트
 * 사용자 인터페이스 활용 (배너, UI 메뉴/블록, 시놉시스, 리모컨 등) 분석 마트
 * 키즈 컨텐츠 이용 분석 마트
-* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop
+* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Oracle Exadata
 > 250억건 데이터 전처리 및 데이터 마트 적재 소요시간이 30분 미만으로 수행됨
 ### 로그 연동 AI 음성인식 마트
 * AI 음성인식 로그 데이터를 활용하여 기능, 활용의 개선을 위한 분석 마트
-* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop
+* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Oracle Exadata
 ### 개인화 추천블록 마트
 * 선호장르, 주이용블록 등에 따른 메뉴/블록, 추천블록을 개인화 구성하기 위한 마트
-* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop
+* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Oracle Exadata
 ### 인터페이스
 * 셋톱박스, AI 음성인식 로그 ETL 인터페이스 및 적재
 * 추천블록 데이터 외부(AWS)로 ETL
-* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Shell, Crontab
+* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Oracle Exadata, Shell, Crontab
 
 # :high_brightness: SK브로드밴드 Ocean 빅데이터 아키텍처 개선
 ### 프로젝트 개요
@@ -108,7 +108,7 @@
 * OS : CentOS
 * 주요기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Shell, distcp
 ### DW, 마트 데이터 마이그레이션
-* DW/BI 2PB 데이터 마이그레이션
+* DW/BI 시스템의 2PB 데이터 마이그레이션
 * 사용기술 : Hadoop, Shell, distcp
 ### DW 및 마트 어플리케이션 마이그레이션
 * 버전 업그레이드로 인한 Hive, Tez, Sqoop 등을 사용하는 DW, 마트, ETL 어플리케이션 마이그레이션
@@ -125,27 +125,29 @@
 * DW/BI의 신규 구축 및 기존 개선
 * 프로젝트 분류 : 빅데이터, DW/BI, 정보계
 * 기간 : 2017년 05월 ~ 2017년 11월
-* 수행역할 : 분석, 모델링, 설계, 개발
+* 수행역할 : 모델링, 설계, 개발
 ### 프로젝트 환경
 * 플랫폼 : Hortonworks HDP (100 노드)
 * 데이터베이스 : Oracle Exadata, Hadoop, Hive, Tez
 * OS : Red Hat
 * 주요기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Shell
 ### 고객 세그먼트 상세화
-* 고객 세그먼트 상세화 200여개 개발 및 검증
-> 고객 세그먼트 검증시 통계학 전문가 분석
+* 세분화 고객 세그먼트 200여개 개발 및 검증
+* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Oracle Exadata
 ### 기업사업부문 실적 마트
 * 기업사업부문 DW/BI 초기 구축을 위한 분석 및 데이터 선별
 * 기존 마트에 기업사업 데이터 Append
 * 기업사업부문 매출 관련 마트
 * 기업사업부문 영업 관련 마트
+* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Oracle Exadata
 > 데이터가 4배 정도 증가하였지만, 수시간 ~ 수십분 걸리는 JOB을 평균 10분이내로 단축
 ### VOD 캠페인 마트
-* 새로운 캠페인 솔루션 도입으로 인한 VOD 캠페인 마트
-* 캠페인 실적 마트 구축 및 아웃바운드 인터페이스
+* 새로운 캠페인 솔루션 도입으로 인한 VOD 캠페인 결과 분석 마트
+* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Oracle Exadata
 ### 인터페이스 및 DW
-* 기업사업부문 관련 테이블 인터페이스 및 DW 적재
-* VOD 캠페인 관련 테이블 IN/OUT 인터페이스 및 DW 적재
+* 기업사업부문 관련 ETL 인터페이스 및 DW 적재
+* VOD 캠페인 관련 데이터 IN/OUT 인터페이스 및 DW 적재
+* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Oracle Exadata, Shell
 
 # :high_brightness: KEB하나은행 기관 CRM
 ### 프로젝트 개요
@@ -177,7 +179,7 @@
 * 수행역할 : 개발
 ### 프로젝트 환경
 * 플랫폼 : Hortonworks HDP (200 노드)
-* 데이터베이스 : Oracle Exadata, Hadoop, Hive, Tez
+* 데이터베이스 : Oracle EE, Hadoop, Hive, Tez
 * OS : Red Hat
 * 주요기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Shell
 ### OKcashbag 마트
