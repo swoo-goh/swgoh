@@ -6,7 +6,7 @@
 * 수행역할 : TA, 설계, 개발
 > 클러스터 구축부터 Hadoop 및 DW/BI 관련 A to Z
 ### 프로젝트 환경
-* 플랫폼 : Oracle BDA, Cloudera CDH (8노드)
+* 플랫폼 : Oracle BDA, Cloudera CDH (8 노드)
 * OS : Oracle Linux
 * 데이터베이스 : Oracle Exadata/EE, Hadoop, Hive, Impala, KUDU
 * 주요기술 : Hadoop, Hive, Impala, KUDU, Sqoop, Kafka, Hue, MIT Kerberos, Sentry, Spring Boot, Quartz Scheduler, Multi Thread, Embedded Tomcat
@@ -14,7 +14,7 @@
 * 플랫폼 : Oracle BDA, Cloudera CDH
 * 주요 컴포넌트 : Hadoop, Hive, Impala, KUDU, Kafka, Hue, MIT Kerberos, Sentry
 * 클러스터 Capacity Planning 및 클러스터 컴포넌트 세부 설정 
-* MIT Kerberos 구축 및 정책 권한 설정. Linux, Windows 서버 (Tableau, WAS 등) Kerberos 연동 설정
+* MIT Kerberos 구축 및 정책 권한 설정. Linux, Windows 기반 (Tableau, WAS 등) Kerberos 연동 설정
 ### 스케줄링 서버
 * Quartz 스케줄러 및 Kafka 메시지 처리
 * 사용기술 : Spring Boot, Kafka, Quartz Scheduler, Multi Thread, MyBatis
@@ -47,51 +47,54 @@
 * OS : CentOS
 * 주요기술 : ER모델링, 다차원모델링, PL-SQL, SQL*PLUS, SQLLDR, Shell
 ### 아키텍처 및 공통
-* 주제영역, 용어, 어플리케이션 등 표준 정의
-* 테이블/컬럼 추출, 변환, 적재 규칙 정의
+* 전사 비즈니스 및 데이터를 분석하여, DW/BI의 개괄적인 데이터 모델 구축
+* DW/BI 프로세스 정립, 개발 프로세스 상세 정의 및 표준화
 * ETL 솔루션 검증 및 설계 개선
-* 사용기술 : ERWIN, PL-SQL, SQL*PLUS, SQLLDR, Shell
+* 사용기술 : ERD, PL-SQL, SQL*PLUS, SQLLDR, Shell
 ### 캠페인 결과 분석
-* 캠페인 결과 분석 관련 마트, AB Test
-* 사용기술 : PL-SQL
+* 캠페인 결과 분석 관련 마트 (결과분석, 고객군, AB Test, 매출 등)
+* 사용기술 : ERD, PL-SQL
 ### 고객 세그먼트
-* RFM 및 20여 분류의 상세화 고객 세그먼트
-* 사용기술 : PL-SQL
+* 기본 고객 세그먼트 (성별, 연령, 지역 등)
+* 세분화 고객 세그먼트 (RFM 및 상품, 관람, 매출 등 관련 고객 세그먼트)
+* 사용기술 : ERD, PL-SQL
 ### 마켓쉐어 데이터 수집
 * 마켓쉐어 데이터 인터페이스 및 적재
-* 사용기술 : PL-SQL, SQLLDR
+* 사용기술 : ERD, PL-SQL, SQLLDR
 
 # :high_brightness: SK브로드밴드 UI 5.0 로그 데이터 분석
 ### 프로젝트 개요
-* IPTV 셋톱박스 로그 분석
+* IPTV 셋톱박스 로그를 활용하여 마케팅 및 인터페이스 개선을 위한 데이터 분석 프로젝트
 * 프로젝트 분류 : 빅데이터, DW/BI, 정보계
 * 기간 : 2018년 07월 ~ 2019년 01월
 * 수행역할 : 모델링, 설계, 개발
-> 레거시 마트 데이터 정합성 15%에서 70%로 향상 (원천의 로그시간 이슈 해결시 대폭 향상 될것으로 예측)
-> 프로젝트 중간부터 DW/BI 원맨 프로젝트
+> 레거시 마트 데이터 정합성 15%에서 70%로 향상 (원천의 로그시간 잔존 이슈 해결시 더욱 향상 될것으로 예측)
 ### 프로젝트 환경
-* 플랫폼 : Hortonworks HDP (200노드)
+* 플랫폼 : Hortonworks HDP (200 노드)
 * 데이터베이스 : Oracle Exadata, Hadoop, Hive, Tez
 * OS : CentOS
-* 주요기술 : ER모델링, 다차원모델링, Hadoop, Hive, Tez, Oozie, Sqoop, Shell
+* 주요기술 : ER모델링, 다차원모델링, Hadoop, Hive, Tez, Oozie, Sqoop, Shell, Crontab
 ### 로그 데이터 전처리
 * 로그 데이터 클렌징 및 변환
 * 로그 분류/그룹핑 디멘션 설계
-* 사용기술 : Hive, Tez, Oozie, Sqoop
+* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop
 > 로그 전처리 및 디멘션 작업은 기억에 남을 만한 성공작. 로그 정합성이 대폭 향상된 주요인
 ### 로그 데이터 분석 마트
 * 사용자 행동 (메뉴 네비게이션, 선호장르, 컨텐츠 구매 등) 패턴 분석 마트
 * 사용자 인터페이스 활용 (배너, UI 메뉴/블록, 시놉시스, 리모컨 등) 분석 마트
+* 키즈 컨텐츠 이용 분석 마트
+* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop
 > 250억건 데이터 전처리 및 데이터 마트 적재 소요시간이 30분 미만으로 수행됨
-### 로그 분석 시각화 마트
-* 고객 세그먼트에 따른 메뉴 네비게이션, 매출, 장르 등 분석 마트
 ### 로그 연동 AI 음성인식 마트
+* AI 음성인식 로그 데이터를 활용하여 기능, 활용의 개선을 위한 분석 마트
+* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop
 ### 개인화 추천블록 마트
-* 선호장르, 에 따른 메뉴 구성, 추천 블록 마트
+* 선호장르, 주이용블록 등에 따른 메뉴/블록, 추천블록을 개인화 구성하기 위한 마트
+* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop
 ### 인터페이스
 * 셋톱박스, AI 음성인식 로그 ETL 인터페이스 및 적재
 * 추천블록 데이터 외부(AWS)로 ETL
-* 사용기술 : Hive, Tez, Oozie, Sqoop, Crontab, Shell
+* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Shell, Crontab
 
 # :high_brightness: SK브로드밴드 Ocean 빅데이터 아키텍처 개선
 ### 프로젝트 개요
@@ -100,7 +103,7 @@
 * 기간 : 2017년 11월 ~ 2018년 05월
 * 수행역할 : 설계, 개발, 마이그레이션
 ### 프로젝트 환경
-* 플랫폼 : Hortonworks HDP (200노드)
+* 플랫폼 : Hortonworks HDP (200 노드)
 * 데이터베이스 : Oracle Exadata, Hadoop, Hive, Tez
 * OS : CentOS
 * 주요기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Shell, distcp
@@ -125,7 +128,7 @@
 * 기간 : 2017년 05월 ~ 2017년 11월
 * 수행역할 : 분석, 모델링, 설계, 개발
 ### 프로젝트 환경
-* 플랫폼 : Hortonworks HDP (100노드)
+* 플랫폼 : Hortonworks HDP (100 노드)
 * 데이터베이스 : Oracle Exadata, Hadoop, Hive, Tez
 * OS : Red Hat
 * 주요기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Shell
@@ -174,7 +177,7 @@
 * 기간 : 2016년 07월 ~ 2016년 11월
 * 수행역할 : 개발
 ### 프로젝트 환경
-* 플랫폼 : Hortonworks HDP (200노드)
+* 플랫폼 : Hortonworks HDP (200 노드)
 * 데이터베이스 : Oracle Exadata, Hadoop, Hive, Tez
 * OS : Red Hat
 * 주요기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Shell
