@@ -1,4 +1,4 @@
-# :high_brightness: NS홈쇼핑 BDA :star::star::star::star::star:
+# :high_brightness: NS홈쇼핑 BDA
 ### 프로젝트 개요
 * Hadoop 기반 DW/BI 시스템 신규 구축. 인터페이스(CDC, ETL, API 등)와 DW 적재가 주안점
 * 프로젝트 분류 : 빅데이터, DW/BI, 정보계
@@ -38,7 +38,7 @@
 * 고객 응대등급 팩터에 따른 세그먼트 마트
 * 사용기술 : HiveQL, Hive, Impala, HDFS, KUDU
 
-# :high_brightness: 메가박스 마케팅/캠페인 시스템 :star::star::star::star::star:
+# :high_brightness: 메가박스 마케팅/캠페인 시스템
 ### 프로젝트 개요
 * 마케팅 및 캠페인을 위한 DW/BI 시스템 신규 구축
 * 프로젝트 분류 : DW/BI, 캠페인, 정보계
