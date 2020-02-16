@@ -4,6 +4,8 @@
 * 프로젝트 분류 : 빅데이터, DW/BI, 정보계
 * 기간 : 2019년 09월 ~ 2020년 02월
 * 수행역할 : TA, 설계, 개발
+* 난이도 : :star::star::star::star::star:
+* 기여도 : :star::star::star::star::star:
 > 클러스터 구축부터 Hadoop 및 DW/BI 관련 A to Z
 ### 프로젝트 환경
 * 플랫폼 : Oracle BDA, Cloudera CDH (8 노드)
@@ -42,6 +44,8 @@
 * 프로젝트 분류 : DW/BI, 캠페인, 정보계
 * 기간 : 2019년 03월 ~ 2019년 09월
 * 수행역할 : DA, 모델링, 설계, 개발
+* 난이도 : :star::star::star:
+* 기여도 : :star::star::star::star::star:
 ### 프로젝트 환경
 * 데이터베이스 : Oracle EE/SE
 * OS : CentOS
@@ -62,12 +66,14 @@
 * 마켓쉐어 데이터 인터페이스 및 적재
 * 사용기술 : ERD, PL-SQL, SQLLDR
 
-# :high_brightness: SK브로드밴드 UI 5.0 로그 데이터 분석 :star::star::star::star::star:
+# :high_brightness: SK브로드밴드 UI 5.0 로그 데이터 분석
 ### 프로젝트 개요
 * IPTV 셋톱박스 로그를 활용하여 마케팅 및 인터페이스 개선을 위한 데이터 분석 프로젝트
 * 프로젝트 분류 : 빅데이터, DW/BI, 정보계
 * 기간 : 2018년 07월 ~ 2019년 01월
 * 수행역할 : 모델링, 설계, 개발
+* 난이도 : :star::star::star::star::star:
+* 기여도 : :star::star::star::star::star:
 > 레거시 마트 데이터 정합성 15%에서 70%로 향상 (원천의 로그시간 잔존 이슈 해결시 더욱 향상 될것으로 예측)
 ### 프로젝트 환경
 * 플랫폼 : Hortonworks HDP (200 노드)
@@ -102,6 +108,8 @@
 * 프로젝트 분류 : 빅데이터, DW/BI, 정보계
 * 기간 : 2017년 11월 ~ 2018년 05월
 * 수행역할 : 설계, 개발, 마이그레이션
+* 난이도 : :star::star::star:
+* 기여도 : :star::star::star::star:
 ### 프로젝트 환경
 * 플랫폼 : Hortonworks HDP (200 노드)
 * 데이터베이스 : Oracle Exadata, Hadoop, Hive, Tez
@@ -127,6 +135,8 @@
 * 프로젝트 분류 : 빅데이터, DW/BI, 정보계
 * 기간 : 2017년 05월 ~ 2017년 11월
 * 수행역할 : 분석, 모델링, 설계, 개발
+* 난이도 : :star::star::star::star:
+* 기여도 : :star::star::star::star::star:
 ### 프로젝트 환경
 * 플랫폼 : Hortonworks HDP (100 노드)
 * 데이터베이스 : Oracle Exadata, Hadoop, Hive, Tez
@@ -154,6 +164,8 @@
 * 프로젝트 분류 : CRM, DW/BI, 정보계
 * 기간 : 2016년 12월 ~ 2017년 03월
 * 수행역할 : PL, 분석, 모델링, 설계, 개발
+* 난이도 : :star::star:
+* 기여도 : :star::star::star::star::star:
 > 운영계 시스템 같은데 정보계...
 ### 프로젝트 환경
 * 데이터베이스 : SyBase IQ, Oracle EE
@@ -176,6 +188,8 @@
 * 프로젝트 분류 : 빅데이터, DW/BI, 정보계
 * 기간 : 2016년 07월 ~ 2016년 11월
 * 수행역할 : 개발
+* 난이도 : :star::star::star:
+* 기여도 : :star::star::star::star::star:
 ### 프로젝트 환경
 * 플랫폼 : Hortonworks HDP (200 노드)
 * 데이터베이스 : Oracle Exadata, Hadoop, Hive, Tez
