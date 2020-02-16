@@ -68,7 +68,7 @@
 * 프로젝트 분류 : 빅데이터, DW/BI, 정보계
 * 기간 : 2018년 07월 ~ 2019년 01월
 * 수행역할 : 모델링, 설계, 개발
-> 레거시 마트 데이터 정합성 15%에서 70%로 향상 (원천의 로그시간 잔존 이슈 해결시 더욱 향상 될것으로 예측)
+> 레거시 마트의 데이터 정합성 15%에서 70%로 향상 (원천의 로그시간 잔존 이슈 해결시 더욱 향상 될것으로 예측)
 ### 프로젝트 환경
 * 플랫폼 : Hortonworks HDP (200 노드)
 * 데이터베이스 : Oracle Exadata, Hadoop, Hive, Tez
@@ -107,19 +107,18 @@
 * 데이터베이스 : Oracle Exadata, Hadoop, Hive, Tez
 * OS : CentOS
 * 주요기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Shell, distcp
-### Hadoop 클러스터
-* 데이터 노드 순차 마이그레이션
-* Kerberos 적용
 ### DW, 마트 데이터 마이그레이션
-* 데이터 마이그레이션
+* DW/BI 2PB 데이터 마이그레이션
+* 사용기술 : Hadoop, Shell, distcp
 ### DW 및 마트 어플리케이션 마이그레이션
-* 버전 업그레이드로 인한 Hive, Tez, Sqoop 등 어플리케이션 마이그레이션
-* 어플리케이션, 워크플로우 새로운 표준 변경 적용
+* 버전 업그레이드로 인한 Hive, Tez, Sqoop 등을 사용하는 DW, 마트, ETL 어플리케이션 마이그레이션
+* DW, Mart, ETL 어플리케이션, 워크플로우 새로운 표준 변경 적용
+* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Shell
 ### 모니터링 및 성능/데이터 정합성 개선 
 * 모니터링을 통한 슬로우 쿼리 튜닝
 * 데이터 전수 검증으로 도출된 AS-IS의 DW 및 마트 데이터 정합성 문제 개선
+* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Shell
 > 수시간 ~ 수십분 걸리는 JOB을 모두 10분이내로 단축
-
 
 # :high_brightness: SK브로드밴드 MDW 고도화
 ### 프로젝트 개요
