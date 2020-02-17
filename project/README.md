@@ -130,7 +130,7 @@
 * 플랫폼 : Hortonworks HDP (100 노드)
 * 데이터베이스 : Oracle Exadata, Hadoop, Hive, Tez
 * OS : Red Hat
-* 주요기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Shell
+* 주요기술 : ER모델링, 다차원모델링, Hadoop, Hive, Tez, Oozie, Sqoop, Shell
 ### 고객 세그먼트 상세화
 * 세분화 고객 세그먼트 200여개 개발 및 검증
 * 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Oracle Exadata
@@ -139,7 +139,7 @@
 * 기존 마트에 기업사업 데이터 Append
 * 기업사업부문 매출 관련 마트
 * 기업사업부문 영업 관련 마트
-* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Oracle Exadata
+* 사용기술 : ERD, Hadoop, Hive, Tez, Oozie, Sqoop, Oracle Exadata
 > 데이터가 4배 정도 증가하였지만, 수시간 ~ 수십분 걸리는 JOB을 평균 10분이내로 단축
 ### VOD 캠페인 마트
 * 새로운 캠페인 솔루션 도입으로 인한 VOD 캠페인 결과 분석 마트
@@ -159,17 +159,21 @@
 ### 프로젝트 환경
 * 데이터베이스 : SyBase IQ, Oracle EE
 * OS : AIX
-* 주요기술 : PL-SQL, T-SQL, ETL, MCI, EAI, Java, Neoworks Framework, xFrame
+* 주요기술 : ER모델링, PL-SQL, T-SQL, ETL, MCI, EAI, Java, Neoworks Framework, xFrame, MyBatis
 ### Sales Force
 * 기관 CRM 전체 모델링 및 설계. 사업정보, 영업기회, 영업정보, 키맨, 입찰정보, 영업일지 등
 * 사업정보, 영업기회, 영업일지 등 개발
+* 사용기술 : ERD, Java, Neoworks Framework, xFrame, MyBatis
 ### 기업 CRM 현업
 * 기업 CRM과 영업활동 협업
+* 사용기술 : ERD, Java, Neoworks Framework, xFrame, MyBatis
 ### 보고서
 * 영업활동 현황 (사업, 입찰, 낙찰 등), 영업기회 관련 보고서
 * 영업실적 관련 보고서
+* 사용기술 : ERD, PL-SQL, T-SQL
 ### 인터페이스
 * 기관 사업정보, 영업정보, 입찰정보 수집
+* 사용기술 : ERD, Java, Neoworks Framework, xFrame, MyBatis
 
 # :high_brightness: SK플래닛 DW Hadoop 기반 이전 구축
 ### 프로젝트 개요
