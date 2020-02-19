@@ -1,5 +1,5 @@
 # :high_brightness: 프로필
-
+<!--
 # :high_brightness: 히스토리
 ### 프리랜서
 * 2006년 07월 ~ 현재
@@ -11,7 +11,7 @@
 ### 인카르타
 * 1999년 08월 ~ 2002년 05월
 * 분야 : FrontEnd, BackEnd, Data, System
-
+-->
 # :high_brightness: skill
 ### Data
 ### BackEnd
@@ -22,6 +22,5 @@
 ### Data
 ### BackEnd
 ### System
-
 
 
