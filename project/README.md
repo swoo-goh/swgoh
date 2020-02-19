@@ -190,4 +190,18 @@
 ### 11번가 마트
 ### 인터페이스
 
+# :high_brightness: KEB하나은행 CRM 통합
+### 프로젝트 개요
+* 외환은행과 하나은행의 CRM 통합 프로젝트
+* 프로젝트 분류 : CRM, DW/BI, 정보계
+* 기간 : 2015년 12월 ~ 2017년 06월
+* 수행역할 : 모델링, 설계, 개발
+### 프로젝트 환경
+* 데이터베이스 : Oracle EE, SyBase IQ
+* OS : AIX
+* 주요기술 : PL-SQL, T-SQL, ETL, MCI, EAI, DW/BI, Java, Neoworks, xFrame
+### 영업ㅈ
 
+### 영업ㅈㅓ
+### 영업ㅈㅁ
+### 영
