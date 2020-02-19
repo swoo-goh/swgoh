@@ -1,2 +1,7 @@
-# portfolio
-swoo.goh's portfolio
+# 프로필
+
+# 
+
+# 요런걸 잘해요
+
+# 요런걸 할 수 있어요
