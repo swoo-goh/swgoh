@@ -12,13 +12,13 @@
 * 1999년 08월 ~ 2002년 05월
 * 분야 : FrontEnd, BackEnd, Data, System
 -->
-# :high_brightness: skill
+# :high_brightness: Skill
 ### Data
 ### BackEnd
 ### System
 ### FrontEnd
 
-# :high_brightness: special skill
+# :high_brightness: Special Skill
 ### Data
 ### BackEnd
 ### System
