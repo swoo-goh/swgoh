@@ -199,11 +199,38 @@
 ### 프로젝트 환경
 * 데이터베이스 : Oracle EE, SyBase IQ
 * OS : AIX
-* 주요기술 : PL-SQL, T-SQL, ETL, MCI, EAI, DW/BI, Java, Neoworks, xFrame
+* 주요기술 : PL-SQL, T-SQL, ETL, MCI, EAI, DW/BI, Java, Neoworks, xFrame, MyBatis
 ### 영업점 통합
+* 영업점 통합 관련 영향도 분석 및 데이터 모델링, UI 변경 설계
 * 영업점 통합 관련 300여개 DW 및 마트 변경
-* ㅇ
+* 영업점 통합 관련 정보계 서비스 쿼리 2000여개 변경
 
-* ㅇㅕㅇㅕ
-* ㅇㅕㅇㅇ
-* 
+# :high_brightness: SKT Wifi Sensing Data / SKT IoT Data Analiytics
+### 프로젝트 개요
+* IoT 허브 데이터와 Wifi 가맹점 데이터 수집 및 분석
+* 프로젝트 분류 : 빅데이터, 데이터수집
+* 기간 : 2015년 08월 ~ 2015년 11월
+* 수행역할 : 모델링, 설계, 개발
+### 프로젝트 환경
+* 플랫폼 : Native Hadoop Echo System (10 노드)
+* 데이터베이스 : MySQL
+* OS : CentOS
+* 주요기술 : Hadoop, Kafka, Spark Streaming, Spark SQL, HBase, Hive, Redis, Sqoop, Zepplin, Java, Scala, RegExp, Shell
+### Hadoop Echo System 구축
+*
+### Real-Time Data Collector
+* Kafka & Spark Stream 실시간 수집 서버 구축
+* Collector 테스트용 시뮬레이터 개발
+* HBase, Hive 데이터 적재 및 분석
+> 서버 3대로 40만 tps 상회. Consumer에서는 1.여러가지 로그를 분류 2.로그를 정규화된 데이터로 변환하여 HDFS에 적재
+### IoT 데이터 분석
+* IoT 허브 로그를 분석하여, IoT의 다양한 데이터 분석
+* IoT 허브 데이터에서 해당 벤더사의 데이터만 추출/분석 어플리케이션 개발
+* 시스템 로그 분석 (like splunk)
+### Wifi Sensing 데이터 분석
+* Wifi 장비 로그를 분석하여, 가맹점내 고객의 이용 패턴, 방문 패턴 등을 분석하여 가맹점 마케팅에 활용
+* Wifi 로그와 기간계 고객, 매출 등의 데이터를 함께 분석하여 가맹점 마케팅에 활용
+### Zepplin 시각화
+*
+### 인터페이스
+*
