@@ -246,4 +246,3 @@
 * OS : AIX
 * 주요기술 : PL-SQL, ETL, EAI, NRT, Java, Jeus, JSP, HTML, Javascript
 ### 카드 
-### 프로젝트 환경
