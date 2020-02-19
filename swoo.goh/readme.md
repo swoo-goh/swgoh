@@ -12,13 +12,13 @@
 * 1999년 08월 ~ 2002년 05월
 * 분야 : FrontEnd, BackEnd, Data, System
 
-# :high_brightness: 요런걸 할 수 있어요
+# :high_brightness: skill
 ### Data
 ### BackEnd
 ### System
 ### FrontEnd
 
-# :high_brightness: 요런걸 잘해요
+# :high_brightness: special skill
 ### Data
 ### BackEnd
 ### System
