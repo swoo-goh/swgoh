@@ -5,13 +5,13 @@ repository:
   name: portfolio
 
   # A short description of the repository that will show up on GitHub
-  description: description of repo
+  description: swoo.goh's portfolio site
 
   # A URL with more information about the repository
   homepage: https://github.com/swoo-goh
 
   # Either `true` to make the repository private, or `false` to make it public.
-  private: true
+  private: false
 
   # Either `true` to enable issues for this repository, `false` to disable them.
   has_issues: true
