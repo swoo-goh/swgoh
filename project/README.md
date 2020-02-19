@@ -245,4 +245,4 @@
 * 데이터베이스 : Oracle EE
 * OS : AIX
 * 주요기술 : PL-SQL, ETL, EAI, NRT, Java, Jeus, JSP, HTML, Javascript
-### 카드 
+### 카드 모집인
