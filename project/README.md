@@ -200,8 +200,6 @@
 * 데이터베이스 : Oracle EE, SyBase IQ
 * OS : AIX
 * 주요기술 : PL-SQL, T-SQL, ETL, MCI, EAI, DW/BI, Java, Neoworks, xFrame
-### 영업ㅈ
+### 영업점 통합
+* ㅇ
 
-### 영업ㅈㅓ
-### 영업ㅈㅁ
-### 영
