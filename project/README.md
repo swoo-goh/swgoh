@@ -202,4 +202,8 @@
 * 주요기술 : PL-SQL, T-SQL, ETL, MCI, EAI, DW/BI, Java, Neoworks, xFrame
 ### 영업점 통합
 * 영업점 통합 관련 300여개 DW 및 마트 변경
+* ㅇ
+
+* ㅇㅕㅇㅕ
+* ㅇㅕㅇㅇ
 * 
