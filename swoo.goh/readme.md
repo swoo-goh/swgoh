@@ -1,5 +1,4 @@
 # :high_brightness: 프로필
-> 프로필 보시고, 다 잘한다고 적어놨다고 하는데...(빙고) 자신 있는 분야와 기술만 적었기 때문입니다.
 <!--
 # :high_brightness: 히스토리
 ### 프리랜서
@@ -13,7 +12,7 @@
 * 1999년 08월 ~ 2002년 05월
 * 분야 : FrontEnd, BackEnd, Data, System
 -->
-
+<!--
 # :high_brightness: Data Skill
 ### 빅데이터 :star:
 *
@@ -39,20 +38,24 @@
 * 금융 계정계, 통신/유통 기간계 등 상세 비즈니스의 배치
 ### OLTP
 * 현재는 온라인 서비스 및 Web 개발을 하지는 않지만, D3, C3와 같은 시각화 및 API 서버 등에서 약간씩 사용
-
+-->
+<!--
 # :high_brightness: Backend Skill
 ### BackEnd
-
+-->
+<!--
 # :high_brightness: Software Enginnering Skill
 ### 방법론
 ### Role and Responsibility
 * 방법론을 이해하고. 
 * 의사결정에 편향이나 정치 중립성을 위하여 수직적인 직급 구조보다는 수평적인 구조를 선호합니다.
-
+-->
+<!--
 # :high_brightness: System Enginnering Skill
 ### System
-
+-->
+<!--
 # :high_brightness: Frontend Skill
 ### FrontEnd
-
+-->
 
