@@ -41,6 +41,12 @@
 # :high_brightness: Backend Skill
 ### BackEnd
 
+# :high_brightness: Software Enginnering Skill
+### 방법론
+### Role and Responsibility
+* 방법론을 이해하고. 
+* 의사결정에 편향이나 정치 중립성을 위하여 수직적인 직급 구조보다는 수평적인 구조를 선호합니다.
+
 # :high_brightness: System Enginnering Skill
 ### System
 
