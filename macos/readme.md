@@ -1,7 +1,8 @@
 # :high_brightness: Mac에 Linux 설치
 * iMac mid 2011이 Macos Mojave 부터 지원하지 않아 Linux Server로 이용하자 함.
 * iMac을 선택한 이유는 4코어 8쓰레드, 12G RAM (4EA), SSD, HDD를 장착했음에도, 모니터 ON시 55W, OFF시 35W의 전략사용량이 나오기 때문임.
-
+### Download
+* http://sourceforge.net/projects/refind/
 ### References
 * https://www.howtogeek.com/187410/how-to-install-and-dual-boot-linux-on-a-mac/
 
