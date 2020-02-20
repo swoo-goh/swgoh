@@ -21,5 +21,5 @@ fi
 # crontab -e
 ```
 ```shell
-0 0/1 * * * /bin/bash /root/fancontrol.sh
+*/1 * * * * /bin/bash /root/fancontrol.sh
 ```
