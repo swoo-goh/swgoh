@@ -1,7 +1,7 @@
-# :high_brightness: HDPARM
+# :high_brightness: hdparm HDD spindown
 ### 설치
 ```shell
-yum install hdparm
+# yum install hdparm
 ```
 ```shell
 # lsblk --output NAME,FSTYPE,LABEL,UUID,MODE
