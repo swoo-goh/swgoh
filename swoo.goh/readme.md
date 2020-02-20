@@ -21,6 +21,7 @@
 * 원칙과 기법을 중시하여 데이터의 품질 및 확장성이 좋습니다.
 * RFM, AB 테스트 등의 분석 기법
 * ER 모델, 다차원 모델
+> 데이터 품질에 대한 이해도가 있기를 바랍니다.
 ### DW/BI
 * Hub and Spoke Architecture, Ralph Kimball Architecture
 * ETL, CDC, NRT 인터페이스
