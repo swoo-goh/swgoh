@@ -29,7 +29,9 @@
 * DW : 스냅샷, 점진적 스냅샷, 선분이력
 * 다차원 마트, OLAP, 시각화
 ### Batch
+* 금융 계정계, 통신/유통 기간계 등 상세 비즈니스의 배치
 ### OLTP
+* 
 
 # :high_brightness: Backend Skill
 ### BackEnd
@@ -40,7 +42,7 @@
 # :high_brightness: Frontend Skill
 ### FrontEnd
 
-# :high_brightness: Special Skill
+# :high_brightness: :Special: Skill
 ### Data
 ### BackEnd
 ### System
