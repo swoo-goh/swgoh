@@ -1,5 +1,8 @@
-# Centos Fan Control on Macos (Macbook, iMac ...)
+# Centos Fan Control on Mac
 
+lm_sensors, pwmconfig, fancontrol을 이용하는 방법은 Mac에서 사용할 없어 직접 Shell로 제어하고 함
+
+### Fan Control Shell Script
 ```shell
 # vi /root/fancontrol.sh
 ```
@@ -17,6 +20,7 @@ if [ ${FAN_RPM} -ne `cat /sys/devices/platform/applesmc.768/fan1_max` ]; then
 fi
 ```
 
+### Crontab 등록
 ```shell
 # crontab -e
 ```
