@@ -33,7 +33,7 @@
 * DW : 스냅샷, 점진적 스냅샷, 선분이력
 * 다차원 마트, OLAP, 시각화
 ### Data Collector/Store/Analysis/Visualization Performance :star:
-* 자료구조와 Object 설계, SQL의 혼연일체로 만들어지는 극강의 퍼포먼스
+* 자료구조와 Database Object 설계, SQL의 혼연일체로 만들어지는 극강의 퍼포먼스
 * Database별 Internals에 가장 적합한 자료구조 및 방법을 이용하여, SMP, MPP, Hadoop (Hive, Tez, Impala, Spark) 등 어떤 엔진을 사용하고, 어떤 스토리지를 이용하던 최고의 성능을 발휘할 수 있음. 아직 지식이 없는 Database도 있지만, Database Internals Data Structure를 이해하면 자신 있음.
 ### Batch
 * 금융 계정계, 통신/유통 기간계 등 상세 비즈니스의 배치
