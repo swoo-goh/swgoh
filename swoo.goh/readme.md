@@ -1,4 +1,5 @@
 # :high_brightness: 프로필
+> 프로필 보시고, 다 잘한다고 적어놨다고 하는데...(빙고) 잘하는것만 적었기 때문입니다.
 <!--
 # :high_brightness: 히스토리
 ### 프리랜서
@@ -12,6 +13,7 @@
 * 1999년 08월 ~ 2002년 05월
 * 분야 : FrontEnd, BackEnd, Data, System
 -->
+
 # :high_brightness: Data Skill
 ### 빅데이터 :star:
 *
