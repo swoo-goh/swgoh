@@ -5,11 +5,11 @@
 ### References
 * https://www.howtogeek.com/187410/how-to-install-and-dual-boot-linux-on-a-mac/
 
-# Centos Fan Control on Mac
+# :high_brightness: Centos Fan Control on Mac
 
 lm_sensors, pwmconfig, fancontrol을 이용하는 방법은 Mac에서 사용할 없어 직접 Shell로 제어하고 함
 
-### :high_brightness: Fan Control Shell Script
+### Fan Control Shell Script
 ```shell
 # vi /root/fancontrol.sh
 ```
