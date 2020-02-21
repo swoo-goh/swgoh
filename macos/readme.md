@@ -35,3 +35,13 @@ fi
 ```shell
 */1 * * * * /bin/bash /root/fancontrol.sh
 ```
+
+# :high_brightness: Centos IR Receiver Control on Mac
+### IR Receiver 
+```shell
+# find /sys/devices -type f -name "name" | xargs grep "IR"
+
+/sys/devices/pci0000:00/0000:00:1d.7/usb2/2-1/2-1.2/2-1.2:1.0/input/input4/name:Apple Computer, Inc. IR Receiver
+```
+
+
