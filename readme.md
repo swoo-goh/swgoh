@@ -5,6 +5,8 @@
 
 ### 빅데이터 플랫폼
 
+* Hortonworks HDP (2020.03~)
+
 <details>
     <summary>자세히보기 👉🏼</summary>
 
@@ -22,6 +24,8 @@ public Sample {
 }
 ```
 </details>
+
+* Cloudera CDP (2022.07~)
 
 ### 머신러닝 플랫폼
 
