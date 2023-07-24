@@ -9,7 +9,8 @@
 #### ✲ Big Data
 #### ✲ DW/BI
 
-- Hard Skill
+#### ✲ Hard Skill
+
 <details>
   <summary>자세히보기 👉🏼</summary>
 
@@ -28,7 +29,7 @@ public Sample {
 ```
 </details>
   
-  - Soft Skill
+#### ✲ Soft Skill
 
 ### Data Science
 
