@@ -10,9 +10,9 @@
 #### ✲ DW/BI
 
 #### ✲ Hard Skill
-
+s
 <details>
-  <summary><font color="blue">자세히보기 👉🏼</font></summary>
+  <summary><span style="color:blue">자세히보기 👉🏼</span></summary>
 
 ```java
 import java.io.*;
