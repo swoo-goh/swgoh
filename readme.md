@@ -6,8 +6,8 @@
 
 ### Data Engineering
 
-- Big Data
-- DW/BI
+#### ✲ Big Data
+#### ✲ DW/BI
 
 - Hard Skill
 <details>
