@@ -10,7 +10,7 @@
 #### ✲ DW/BI
 
 #### ✲ Hard Skill
-s
+
 <details>
   <summary><span style="color:blue">자세히보기 👉🏼</span></summary>
 
