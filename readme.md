@@ -27,11 +27,11 @@ public Sample {
 
 * Cloudera CDP (2022.12~)
 
-### 머신러닝 플랫폼
+### 🕷️ 머신러닝 플랫폼
 
-#### Kubeflow (2020.03~)
+#### 🕸️ Kubeflow (2020.03~)
 
-#### Samsung SDS Brightics (2022.12~)
+#### 🕸️ Samsung SDS Brightics (2022.12~)
 
 <details>
     <summary>자세히보기 👉🏼</summary>
