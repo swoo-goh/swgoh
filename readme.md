@@ -12,7 +12,7 @@
 #### ✲ Hard Skill
 
 <details>
-  <summary>자세히보기 👉🏼</summary>
+  <summary><font color="blue">자세히보기 👉🏼</font></summary>
 
 ```java
 import java.io.*;
