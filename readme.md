@@ -3,11 +3,9 @@
 
 ## KDB산업은행 AI플랫폼
 
-***
-
 ### 빅데이터 플랫폼
 
-* Hortonworks HDP (2020.03~)
+#### Hortonworks HDP (2020.03~)
 
 <details>
     <summary>자세히보기 👉🏼</summary>
@@ -27,7 +25,7 @@ public Sample {
 ```
 </details>
 
-* Cloudera CDP (2022.12~)
+#### Cloudera CDP (2022.12~)
 
 ***
 
