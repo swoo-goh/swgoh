@@ -10,6 +10,24 @@
   - DW/BI
 
   - Hard Skill
+  <details>
+    <summary>자세히보기 👉🏼</summary>
+
+```java
+import java.io.*;
+
+/**
+ *
+ */
+public Sample {
+
+    public static void main(String[] args) {
+
+    }
+}
+```
+  </details>
+  
   - Soft Skill
 
 ### Data Science
