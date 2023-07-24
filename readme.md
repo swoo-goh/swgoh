@@ -4,7 +4,19 @@
 
 ## 분야
 
-## 경력
+### Data Engineering
+
+  - Big Data
+  - DW/BI
+
+  - Hard Skill
+  - Soft Skill
+
+### Data Science
+
+### Data Architecure
+
+## Experience
 
 ### KDB산업은행
 
@@ -21,3 +33,5 @@
 ### 기타
 
 * [자세히 보기](home/etc.md)
+
+## Skill
