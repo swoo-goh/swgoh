@@ -10,7 +10,7 @@
   - DW/BI
 
   - Hard Skill
-  <details>
+  ]<details>
     <summary>자세히보기 👉🏼</summary>
 
 ```java
