@@ -6,12 +6,12 @@
 
 ### Data Engineering
 
-  - Big Data
-  - DW/BI
+- Big Data
+- DW/BI
 
-  - Hard Skill
-  <details>
-    <summary>자세히보기 👉🏼</summary>
+- Hard Skill
+<details>
+  <summary>자세히보기 👉🏼</summary>
 
 ```java
 import java.io.*;
@@ -26,7 +26,7 @@ public Sample {
     }
 }
 ```
-  </details>
+</details>
   
   - Soft Skill
 
