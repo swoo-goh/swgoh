@@ -31,7 +31,11 @@ public Sample {
   
 #### ✲ Soft Skill
 
+***
+
 ### Data Science
+
+***
 
 ### Data Architecure
 
