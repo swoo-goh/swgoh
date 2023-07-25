@@ -31,11 +31,11 @@ public Sample {
   
 #### ✲ Soft Skill
 
-***
+<hr style="border:2px solid gray">
 
 ### Data Science
 
-***
+<hr style="border:2px solid gray">
 
 ### Data Architecure
 
